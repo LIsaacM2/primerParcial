@@ -1,0 +1,23 @@
+#nav {
+	background-color: rgb(240,240,240);
+	border: 2px solid DodgerBlue;
+    
+}
+
+#portafolio {
+	background-color: rgb(240,240,240);
+	border: 2px solid red;
+    
+}
+
+#services {
+	background-color: rgb(240,240,240);
+	border: 2px solid green;
+    
+}
+
+#contact {
+	background-color: rgb(240,240,240);
+	border: 2px solid orange;
+    
+}
